@@ -81,7 +81,6 @@ export const ProjectsSection = () => {
                 font-bold uppercase tracking-widest text-sm text-transparent bg-clip-text"
                   >
                     <span>{project.techStack}</span>
-                    {/* <span>&bull;</span> */}
                   </div>
                   <h3 className="font-serif text-2xl mt-2 md:mt-5 md:text-4xl">
                     {project.title}
