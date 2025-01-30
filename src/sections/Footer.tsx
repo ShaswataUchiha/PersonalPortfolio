@@ -20,7 +20,7 @@ const footerLinks = [
 ];
 export const Footer = () => {
   return (
-    <footer className="relative -z-10 overflow-x-clip">
+    <footer className="relative z-10 overflow-x-clip">
       <div
         className="absolute h-[400px] w-[1600px] bottom-0  left-1/2
       -translate-x-1/2 bg-emerald-300/30 
@@ -37,6 +37,7 @@ export const Footer = () => {
               <a
                 key={index}
                 href={link.href}
+                target="_blank" 
                 className="inline-flex items-center gap-1.5"
               >
                 <span className="font-semibold">{link.title}</span>
