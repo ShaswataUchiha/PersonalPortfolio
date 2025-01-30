@@ -112,7 +112,7 @@ export const HeroSection = () => {
               animate-ping-large"
               ></div>
             </div>
-            <div className="text-sm font-semibold">Hello I'm Shaswata</div>
+            <div className="text-sm font-semibold">Hello Im Shaswata</div>
           </div>
         </div>
         <div className="max-w-lg mx-auto">
@@ -121,7 +121,7 @@ export const HeroSection = () => {
           </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
             I specialize iin transformiing designs into functional,
-            hig-performing web applications, Let's dicuss your next project.
+            hig-performing web applications, Lets dicuss your next project.
           </p>
         </div>
         <div className="flex flex-col md:flex-row justify-center items-center mt-8 gap-4">
@@ -142,7 +142,7 @@ export const HeroSection = () => {
           border border-white bg-white h-12 px-6 rounded-xl"
           >
             <span>🖐️</span>
-            <span className="font-semibold">Let's Connect</span>
+            <span className="font-semibold">Lets Connect</span>
           </button>
         </div>
       </div>
