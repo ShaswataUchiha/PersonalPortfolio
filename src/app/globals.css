@@ -4,7 +4,6 @@
 
 @import 'leaflet/dist/leaflet.css';
 
-
 @layer base {
   .nav-item {
     @apply px-4 py-1.5 rounded-full text-white/70 text-sm font-semibold
