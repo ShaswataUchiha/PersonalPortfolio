@@ -4,7 +4,7 @@
 This is a **personal portfolio website** built with **Next.js**, styled with **Tailwind CSS**, and deployed on **Vercel**. The website showcases projects, skills, and contact details.
 
 ## 🚀 Live Demo
-[🔗 View Live](https://your-vercel-url.vercel.app)
+[🔗 View Live](personal-portfolio-three-neon.vercel.app)
 
 ---
 ## 📌 Features
